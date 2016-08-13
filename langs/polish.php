@@ -2,55 +2,55 @@
 
 $lg = [
 	//header info
-	"lang" => "en",
-	"desc" => "Pokémon Go XP Calculator, Find out how long it will be until you reach your next trainer level and see what rewards await you!",
-	"keywords" => "Pokémon GO, Pokemon GO,XP Calculator",
+	"lang" => "pl",
+	"desc" => "Pokémon GO Kalkulator XP, Sprawdź jak długo zajmie Ci osiągnięcie następnego poziomu i zobacz jakie nagrody na Ciebie czekają!",
+	"keywords" => "Pokémon GO, Pokemon GO, Kalkulator XP",
 
 
 	//index page
-	"header" => "XP Calculator",
-	"curlvl" => "Current Level",
-	"curxp" => "Current XP Amount",
-	"xpe" => 'About how much XP are you earning every <span class="bold">5 minutes</span>?',
-	"calculate" => "Calculate!",
+	"header" => "Kalkulator XP",
+	"curlvl" => "Aktualny poziom",
+	"curxp" => "Aktualna ilość XP",
+	"xpe" => 'Ile XP zdobywasz w ciągu <span class="bold">5-ciu minut</span>?',
+	"calculate" => "Licz!",
 
-	"language" => "Language",
+	"language" => "Język",
 
 	//results
 
-	"error1" => "Hmm, looks like you forgot to type in something. Try filling out the form again.",
-	"back" => "Back",
-	'back2' => "Back to Calculator",
-	'rawdata' => "Raw Data",
+	"error1" => "Hmm, wygląda na to, że o czymś zapomniałeś. Spróbuj uzupełnić formularz ponownie.",
+	"back" => "Wróć",
+	'back2' => "Wróć do kalkulatora",
+	'rawdata' => "Surowe dane",
 
-	'main1' => '<p>A level <span class="bold">'.$current_level.'</span>, with <span class="bold">'.$current_xp.'</span> XP, earning <span class="bold">'.$xp_earned.'</span> XP per 5 minutes would take this long per level.</p>',
-
-
-	'lvl' => "lvl",
-	'time_to_reach_level' => "Time to reach level",
+	'main1' => '<p>Na poziomie <span class="bold">'.$current_level.'</span>, z <span class="bold">'.$current_xp.'</span> XP, zdobywanie <span class="bold">'.$xp_earned.'</span> XP co 5 minut zabrałoby tyle czasu na każdy poziom.</p>',
 
 
-	'hours' => 'hours',
-	'hour' => 'hour',
-	'minutes' => 'minutes',
-	'minute' => 'minute',
+	'lvl' => "poziom",
+	'time_to_reach_level' => "Czas na zdobycie poziomu",
 
-	'rewards' => "Rewards",
 
-	'twittermessage' => "Check out how long it'll take for me to level up in Pokémon GO!",
+	'hours' => 'godzin/y',
+	'hour' => 'godzina',
+	'minutes' => 'minut/y',
+	'minute' => 'minuta',
+
+	'rewards' => "Nagrody",
+
+	'twittermessage' => "Zobacz jak długo zajmie mi zdobywanie poziomów w Pokémon GO!",
 
 	//rawdata
 
-	"rawdataforpokemongo" => "Raw Data for Pokémon Go",
-	'back3' => "Back to Calculator",
-	'lastupdated' => "Last Updated",
+	"rawdataforpokemongo" => "Surowe dane do Pokémon Go",
+	'back3' => "Wróć do Kalkulatora",
+	'lastupdated' => "Ostatnio zaaktualizowano",
 
 
-	"level" => "Level",
-	"xp_req" => "XP Required",
-	"total_xp_req" => "Total XP",
-	"unlocked_items" => "Unlocked Items",
-	"rewards" => "Rewards",
+	"level" => "Poziom",
+	"xp_req" => "Potrzebne XP",
+	"total_xp_req" => "Całe XP",
+	"unlocked_items" => "Odblokowane przedmioty",
+	"rewards" => "Nagrody",
 	
 
 	// levels
